@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-12T17:44:59.640Z'
+datePublished: '2016-07-13T01:14:37.881Z'
 sourcePath: _posts/2016-04-16-femton-an-organic-workout-collection-from-ali-safa-a-and.md
 inFeed: true
 isBasedOnUrl: >-
@@ -21,7 +21,7 @@ related: []
 author:
   - name: ''
     url: ''
-dateModified: '2016-07-12T17:44:59.383Z'
+dateModified: '2016-07-13T01:14:37.649Z'
 title: '''Femton'': an organic workout collection from Ali Safa A and Analogue Ways.'
 app_links: []
 publisher:
@@ -37,7 +37,7 @@ description: >-
   environmental awareness.
 inLanguage: en
 inNav: false
-starred: false
+starred: true
 _context: 'http://schema.org'
 _type: MediaObject
 
