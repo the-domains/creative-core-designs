@@ -10,7 +10,13 @@ color:
     - '#EFECCA'
     - '#046380'
     - '#002F2F'
+opengraph:
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/f7a9bc9d-09cc-4958-a3cd-2f4b01f4a81d.jpg
 layout_spectrum: 0.1715513369999826
+author:
+  name: Anthony Gallelli
+  email: anthonygallelli@gmail.com
 logo: null
 name: Creative Core Designs
 favicon: >-
